@@ -28,3 +28,7 @@ I've worked with Git and Bitkraken but this is my first with Github!!!!!!!
 2. Learnt what kinds of files, folders, how and to ignore.
 3. Learnt what best practices are. 
 4. Learn how to create gloabl ignore file for different projects. 
+5. Learnt how to delete, restore and rename files.
+
+
+
