@@ -29,6 +29,6 @@ I've worked with Git and Bitkraken but this is my first with Github!!!!!!!
 3. Learnt what best practices are. 
 4. Learn how to create gloabl ignore file for different projects. 
 5. Learnt how to delete, restore and rename files.
-
+6. Learnt how to see differences.
 
 
